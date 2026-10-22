@@ -1,0 +1,6 @@
+{
+  "name": "GM S.F - منصة الألعاب الشاملة وحماية البوتات",
+  "description": "منصة GM S.F لكل الألعاب المجانية للهواتف الذكية وأجهزة الكمبيوتر والكونسول، مع نظام حماية ذكي متطور للتحقق من البشر ومكافحة البوتات وتجربة لعب فورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
